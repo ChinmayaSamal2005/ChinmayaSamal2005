@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./ezgif-3ba17957cdaa53.gif" width="500" alt="Solo Leveling Statue Smile" />
+  <br/>
+  <b>⚔️ "When your code compiles on the first try..."</b>
+</p>
+
 <h1>Hi 👋, I'm  Chinmaya Samal</h1>
 <p>
     • 🐍 Python Prodigy: My primary weapon — from AI to automation, I breathe Python. <br>
