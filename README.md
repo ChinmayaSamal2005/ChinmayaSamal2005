@@ -1,5 +1,18 @@
 <h1>Hi 👋, I'm  Chinmaya Samal</h1>
-<p>	•	🐍 Python Prodigy: My primary weapon — from AI to automation, I breathe Python. 	•	🧠 Machine Learning & NLP: I make machines understand sarcasm (well, almost). 	•	📊 Data Whisperer: Give me data, I’ll give you stories, trends, and some spicy insights. 	•	🌐 Web Alchemist: Crafting sleek web experiences with HTML, CSS, JS & Bootstrap. 	•	💾 Database Tamer: MongoDB is where my backend magic lives. 	•	🛠️ Tools of Choice: Git, VS Code, and Figma — the holy trinity of my dev workflow. 	•	🔍 Extra Spices: 	•	C (for when Python wants a break 😉) 	•	Quick on the keys, quicker on debugging 	•	Leadership? Check ✅ 	•	Time management? Never missed a sprint ⏱️ 	•	Problem-solving? Even in my dreams.</p>
+<p>
+    • 🐍 Python Prodigy: My primary weapon — from AI to automation, I breathe Python. <br>
+    • 🧠 Machine Learning & NLP: I make machines understand sarcasm (well, almost). <br>
+    • 📊 Data Whisperer: Give me data, I’ll give you stories, trends, and some spicy insights. <br>
+    • 🌐 Web Alchemist: Crafting sleek web experiences with HTML, CSS, JS & Bootstrap. <br>
+    • 💾 Database Tamer: MongoDB is where my backend magic lives. <br>
+    • 🛠️ Tools of Choice: Git, VS Code, and Figma — the holy trinity of my dev workflow. <br>
+    • 🔍 Extra Spices: <br>
+    • C (for when Python wants a break 😉) <br>
+    • Quick on the keys, quicker on debugging <br>
+    • Leadership? Check ✅ <br>
+    • Time management? Never missed a sprint ⏱️ <br>
+    • Problem-solving? Even in my dreams. <br>
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
