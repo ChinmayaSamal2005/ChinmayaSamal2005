@@ -7,7 +7,7 @@
     • 💾 Database Tamer: MongoDB is where my backend magic lives. <br>
     • 🛠️ Tools of Choice: Git, VS Code, and Figma — the holy trinity of my dev workflow. <br>
     • 🔍 Extra Spices: <br>
-    • C (for when Python wants a break 😉) <br>
+       • C (for when Python wants a break 😉) <br>
     • Quick on the keys, quicker on debugging <br>
     • Leadership? Check ✅ <br>
     • Time management? Never missed a sprint ⏱️ <br>
